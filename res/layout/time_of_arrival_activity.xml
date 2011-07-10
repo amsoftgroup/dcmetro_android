@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+		<TextView  
+		android:id = "@+id/toa_station"
+	    android:layout_width="fill_parent" 
+	    android:layout_height="35px" 
+	 	android:layout_weight="1"
+	    android:gravity="center_vertical|center_horizontal"
+	    android:textSize="20px"
+		android:textStyle="bold"
+		android:typeface="serif"/>  
+		<ScrollView
+	    android:id="@+id/scroller"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:fillViewport="true"
+	    android:layout_marginBottom="50dip" android:layout_below="@+id/toa_station">
+		<LinearLayout
+		    android:orientation="vertical"
+		    android:layout_width="fill_parent"
+		    android:layout_height="fill_parent">	 
+	    
+			<TextView  
+				android:id = "@+id/status"
+			    android:layout_width="fill_parent" 
+			    android:layout_height="wrap_content" 
+			 	android:layout_weight="1"
+			    android:gravity="center_vertical"
+			    android:textSize="20px"
+				android:textStyle="bold"
+				android:typeface="serif"/>  
+				  
+		</LinearLayout>
+	</ScrollView>
+
+	<RelativeLayout 
+		android:layout_height="wrap_content" 
+		android:layout_width="fill_parent">
+	
+	    <TextView  
+			android:id = "@+id/lastupdated"
+		    android:layout_width="fill_parent" 
+		    android:layout_height="25px" 
+		 	android:layout_weight="1"
+		    android:gravity="bottom|left"
+		    android:textSize="10px"
+			android:typeface="serif"
+			android:layout_alignParentBottom="true"/> 
+	</RelativeLayout>
+	
+</RelativeLayout>
