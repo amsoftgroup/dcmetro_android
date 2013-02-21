@@ -237,7 +237,7 @@ public class TimeOfArrivalActivityText  extends Activity{
         	    Log.v(TAG, e.getMessage());
         	}
         	
-        	String about = "wdc metro locator app" + app_ver + "\nby brian reed\nsupport@amsoftgroup.com";
+        	String about = "wdc metro locator app" + app_ver + "\nsupport@amsoftgroup.com";
         		
 			AlertDialog.Builder alertbox = new AlertDialog.Builder(this);
 			alertbox.setMessage(about);
