@@ -99,6 +99,7 @@ public final class R {
         public static final int HIDE=0x7f060013;
         public static final int HIDE_BUS=0x7f060015;
         public static final int METRIC=0x7f06000e;
+        public static final int REMOTE_STATUS_WEBSITE=0x7f060019;
         public static final int SHOW=0x7f060012;
         public static final int SHOW_BUS=0x7f060014;
         public static final int SIXTY=0x7f06000d;
@@ -108,7 +109,7 @@ public final class R {
         public static final int THIRTY=0x7f06000b;
         public static final int TRANSIT=0x7f060018;
         public static final int WALK=0x7f060016;
-        public static final int WMATA_KEY=0x7f060019;
+        public static final int WMATA_KEY=0x7f06001a;
         public static final int about=0x7f060004;
         public static final int app_name=0x7f060001;
         public static final int eula_accept=0x7f060008;

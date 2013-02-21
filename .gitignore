@@ -19,13 +19,20 @@ local.properties
 .classpath
 .project
 
+<<<<<<< HEAD
 # previous version control
+=======
+# previous version control 
+>>>>>>> bd83368de1c578398cdc33a0e7269c3b10d58f44
 
 CVS/
 CVS
 .CVS
 .cvs
+<<<<<<< HEAD
 .svn
 SVN/
 SVN
 .svn/
+=======
+>>>>>>> bd83368de1c578398cdc33a0e7269c3b10d58f44

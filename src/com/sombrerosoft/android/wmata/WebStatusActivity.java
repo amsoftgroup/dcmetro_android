@@ -36,7 +36,7 @@ public class WebStatusActivity extends Activity {
 
 	private TextView tvStatus;
     private ProgressDialog m_ProgressDialog = null;
-    private String http_loc = "http://tequila.sombrerosoft.com/application/android/dcmetro/status/index.html";
+    private String http_loc = this.getString(R.string.REMOTE_STATUS_WEBSITE);;
 	private Handler mHandler = new Handler();
 	private String TAG = "WebStatusActivity";
 	private String html = "";
