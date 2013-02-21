@@ -18,3 +18,10 @@ local.properties
 # Eclipse project files
 .classpath
 .project
+
+# previous version control 
+
+CVS/
+CVS
+.CVS
+.cvs
