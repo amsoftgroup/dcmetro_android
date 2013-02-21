@@ -205,12 +205,7 @@ public class WebStatusActivity extends Activity {
 				startActivity(settingsActivity);
 			}
 			return true;
-			case R.string.GPS_closest_bus:
-			{
-				Intent settingsActivity = new Intent(getBaseContext(), BusActivity.class);
-				startActivity(settingsActivity);
-			}
-			return true;
+
 			default:
 				return super.onOptionsItemSelected(item);
 			}

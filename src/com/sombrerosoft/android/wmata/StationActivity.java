@@ -107,7 +107,7 @@ public class StationActivity extends ListActivity{
     
     private void getOrders(){
     	try{        	  
-    		XmlPullFeedParser xmlpull = XmlPullFeedParser.getXmlPullFeedParser();
+    		XmlPullFeedParser xmlpull = XmlPullFeedParser.getXmlPullFeedParser(this);
         	//m_orders = xmlpull.parseStationsByLineCode(lineCode);
 
     		m_orders = (ArrayList<Station>) xmlpull.parseHardCodedStationsByLine(this, lineCode);

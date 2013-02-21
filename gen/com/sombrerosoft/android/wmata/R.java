@@ -35,14 +35,17 @@ public final class R {
         public static final int arrow315=0x7f020007;
         public static final int dcflagbutton_alt=0x7f020008;
         public static final int dcflagbuttonalt=0x7f020009;
-        public static final int dcflagcolor=0x7f02000a;
-        public static final int header_metro_logo=0x7f02000b;
-        public static final int icon_marble_blue=0x7f02000c;
-        public static final int icon_marble_green=0x7f02000d;
-        public static final int icon_marble_orange=0x7f02000e;
-        public static final int icon_marble_red=0x7f02000f;
-        public static final int icon_marble_yellow=0x7f020010;
-        public static final int wdc=0x7f020011;
+        public static final int dcflagbuttonalt_57=0x7f02000a;
+        public static final int dcflagbuttonalt_72=0x7f02000b;
+        public static final int dcflagcolor=0x7f02000c;
+        public static final int header_metro_logo=0x7f02000d;
+        public static final int header_metro_logo_57=0x7f02000e;
+        public static final int icon_marble_blue=0x7f02000f;
+        public static final int icon_marble_green=0x7f020010;
+        public static final int icon_marble_orange=0x7f020011;
+        public static final int icon_marble_red=0x7f020012;
+        public static final int icon_marble_yellow=0x7f020013;
+        public static final int wdc=0x7f020014;
     }
     public static final class id {
         public static final int back=0x7f080009;
@@ -105,6 +108,7 @@ public final class R {
         public static final int THIRTY=0x7f06000b;
         public static final int TRANSIT=0x7f060018;
         public static final int WALK=0x7f060016;
+        public static final int WMATA_KEY=0x7f060019;
         public static final int about=0x7f060004;
         public static final int app_name=0x7f060001;
         public static final int eula_accept=0x7f060008;

@@ -6,9 +6,13 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Properties;
+
 import org.xmlpull.v1.XmlPullParser;
 
 import android.app.Activity;
+import android.content.Context;
+import android.content.res.AssetManager;
 import android.content.res.Resources;
 import android.content.res.XmlResourceParser;
 import android.util.Log;
@@ -30,24 +34,25 @@ import com.sombrerosoft.wmata.beans.metro.Station;
 public class XmlPullFeedParser {
 
 	private static XmlPullFeedParser xmlpp;
-	private String key = "pssvrnd7sru72whv2vpze75j";
-	//private String key = "dpqp9rgs7ws4rd5neknhzrm2";
 	private String TAG = "XmlPullFeedParser";
-
+	private Context c = null;
 	
-	private XmlPullFeedParser() {
-	
+	public XmlPullFeedParser(Context c2) {
+		c=c2;
 	}
-	
-	public static XmlPullFeedParser getXmlPullFeedParser(){
+
+	private String getKey(){
+
+		// see: http://developer.wmata.com/member/register to get a WMATA developer API Key
+
+		return c.getResources().getString(R.string.WMATA_KEY);
+	}
+
+	public static XmlPullFeedParser getXmlPullFeedParser(Context c){
 		if (xmlpp == null){
-			xmlpp = new XmlPullFeedParser();
+			xmlpp = new XmlPullFeedParser(c);
 		}
 		return xmlpp;
-	}
-	
-	private String getKey(){
-		return key;
 	}
 
 	private URL getURL(String url){

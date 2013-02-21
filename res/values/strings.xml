@@ -25,7 +25,7 @@
     <string name="WALK">Walk</string>
     <string name="DRIVE">Drive</string>
     <string name="TRANSIT">Mass Transit</string>
-    
+    <string name="WMATA_KEY">[insert your key here]</string>    
 
 	
 </resources>

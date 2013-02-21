@@ -49,22 +49,23 @@ import com.sombrerosoft.wmata.beans.metro.RailIncident;
 public class LineActivity extends Activity{
 	
 	private ListView lv;
-	private HorizontalScrollView hscroller;
     private ProgressDialog m_ProgressDialog = null;
     private ArrayList<Line> m_orders = null;
     private OrderAdapter m_adapter;
-    private Button busbutton;
     private ArrayList<RailIncident> ri;
     private TextView incidents;
     private String SYSTEM_WIDE_DELAY = "0";    
     private SharedPreferences prefs = null;
+    private String TAG = "LineActivity";
+    
+    
 	private Handler mHandler = new Handler(){
 	    @Override
 	    public void handleMessage(Message msg) {
 	    	super.handleMessage(msg);
 	    }
 	};
-	private String TAG = "LineActivity";
+	
 	
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -115,7 +116,6 @@ public class LineActivity extends Activity{
     						if (l > 0) {
     							
     							String[] del = new String[l];
-        						String d = "";
     							result = ri.get(i).getLinesAffected()[0];    // start with the first element
     							for (int j=1; j<del.length; j++) {
     								result += ri.get(i).getLinesAffected()[j];
@@ -289,7 +289,7 @@ public class LineActivity extends Activity{
     private void getOrders(){
 
     	try{        	  
-    		XmlPullFeedParser xmlpull = XmlPullFeedParser.getXmlPullFeedParser();
+    		XmlPullFeedParser xmlpull = XmlPullFeedParser.getXmlPullFeedParser(this);
             //m_orders = (ArrayList<Line>) xmlpull.parseLines();
     		m_orders = (ArrayList<Line>)  xmlpull.parseHardCodedLines(this);
     		

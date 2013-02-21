@@ -256,12 +256,12 @@ public class LocationActivity extends Activity {
 	private void getOrders(){
 
 		try{        	  
-			// dynamic:
+
 			// 1) parse all lines, get line codes
 			// 2) parse all line codes, get each closest station
 			// 3) add to arraylist and return
 
-			XmlPullFeedParser xmlpull = XmlPullFeedParser.getXmlPullFeedParser();
+			XmlPullFeedParser xmlpull = XmlPullFeedParser.getXmlPullFeedParser(this);
 			ArrayList<Line> lines = (ArrayList<Line>)  xmlpull.parseHardCodedLines(this);
 			ArrayList<Station> s =  new ArrayList<Station>();
 

@@ -186,7 +186,7 @@ public class TimeOfArrivalActivityText  extends Activity{
     	if (AppHelper.isConnected(connec))
     	{
     		try{
-    			XmlPullFeedParser xmlpull = XmlPullFeedParser.getXmlPullFeedParser();
+    			XmlPullFeedParser xmlpull = XmlPullFeedParser.getXmlPullFeedParser(this);
     			//get Lines by StationCode... some stations have more than one code!
     			// TODO: is there a better way to do this than re-parse the XML every 15-60 second refresh?
     			ArrayList<String> codes = xmlpull.getStationCodesByStation(stationCode, this);
