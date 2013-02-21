@@ -9,4 +9,5 @@ Once the key is obtained, place the String in the res/values/strings.xml file un
 Cheers,
 
 The Amalgamated Software Group of Greater Columbia Heights
+
 support@amsoftgroup.com
