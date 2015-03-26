@@ -1,6 +1,10 @@
 dcmetro_android: DC Metro arrival times
 
-This Android application requires a developer API Key, freely obtainable from WMATA's website:
+This application is deployed to Google Play:
+
+https://play.google.com/store/apps/details?id=com.sombrerosoft.android.wmata
+
+dcmetro_android application requires a developer API Key, freely obtainable from WMATA's website:
 
 http://developer.wmata.com/
 
