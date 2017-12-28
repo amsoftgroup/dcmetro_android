@@ -5,11 +5,15 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+/*
 import org.apache.http.HttpResponse;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
+*/
+import java.net.HttpURLConnection;
+import java.net.URL;
 
 import com.sombrerosoft.android.wmata.helper.AppHelper;
 
@@ -49,25 +53,20 @@ public class WebStatusActivity extends Activity {
 	private Runnable mUpdateTimeTask = new Runnable() {
 		
 		public void run() {	
-			HttpClient client = new DefaultHttpClient();
-			HttpGet request = new HttpGet(http_loc);
-			HttpResponse response = null;
-			
+			//HttpClient client = new DefaultHttpClient();
+			//HttpGet request = new HttpGet(http_loc);
+			//HttpResponse response = null;
+
+			URL urlObj = null;
+			InputStream in = null;
+
 			try {
-				response = client.execute(request);
-			} catch (ClientProtocolException e1) {
-				Log.e(TAG, "err " + e1.toString());
+				urlObj = new URL(http_loc);
+				HttpURLConnection urlConnection = (HttpURLConnection) urlObj.openConnection();
+				in = urlConnection.getInputStream();
+				//response = client.execute(request);
 			} catch (IOException e1) {
 				Log.e(TAG, "err " + e1.toString());
-			}
-
-			InputStream in = null;
-			try {
-				in = response.getEntity().getContent();
-			} catch (IllegalStateException e) {
-				Log.e(TAG, "err " + e.toString());
-			} catch (IOException e) {
-				Log.e(TAG, "err " + e.toString());
 			}
 			
 			BufferedReader reader = new BufferedReader(new InputStreamReader(in));
