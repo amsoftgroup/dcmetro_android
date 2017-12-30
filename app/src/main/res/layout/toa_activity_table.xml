@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView android:id="@+id/toa_station" android:layout_width="fill_parent"
+		android:layout_height="50px" android:layout_weight="1"
+		android:gravity="center_vertical|center_horizontal" android:textSize="20px"
+		android:textStyle="bold" android:typeface="serif" android:background="@layout/customshape" />
+	<TableLayout android:id="@+id/table" android:layout_below="@+id/toa_station"
+		android:layout_width="fill_parent" android:layout_height="25px">
+		<TableRow>	
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="2dip" android:layout_weight="1" android:background="#808080"
+				android:gravity="center_horizontal" android:text="" />		
+		</TableRow>
+		<TableRow>
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="fill_parent" android:layout_weight="1"
+				android:gravity="center_horizontal" android:textSize="15px"
+				android:textStyle="bold" android:typeface="serif" android:text="Line" />
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="fill_parent" android:layout_weight="1"
+				android:gravity="center_horizontal" android:textSize="15px"
+				android:textStyle="bold" android:typeface="serif" android:text="Destination" />
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="fill_parent" android:layout_weight="1"
+				android:gravity="center_horizontal" android:textSize="15px"
+				android:textStyle="bold" android:typeface="serif" android:text="Minutes" />
+		</TableRow>
+		<TableRow>	
+			<TextView android:layout_width="fill_parent"
+				android:layout_height="2dip" android:layout_weight="1" android:background="#808080"
+				android:gravity="center_horizontal" android:text="" />		
+		</TableRow>
+	</TableLayout>
+
+		<ListView android:id="@+id/gridview" android:layout_width="fill_parent"
+			android:layout_height="fill_parent" 
+			android:gravity="center" android:layout_marginBottom="50dip" android:layout_below="@+id/table" />
+
+
+	<TextView android:id="@+id/lastupdated" android:layout_width="fill_parent"
+		android:layout_height="25px" android:layout_weight="1"
+		android:gravity="bottom|left" android:textSize="10px"
+		android:typeface="serif" android:layout_alignParentBottom="true" />
+</RelativeLayout>

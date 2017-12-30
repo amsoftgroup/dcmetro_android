@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Dec 30 11:30:04 EST 2017
+0.baseType=DIRECTORY
+0.base=/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/assets/debug
+0.path=EULA
+0.set=ASSET
+count=1

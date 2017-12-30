@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_icon_marble_blue.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/icon_marble_blue.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_row.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_customshape.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/customshape.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_arrow090.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/arrow090.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_web_status_view.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/web_status_view.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_station_activity.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/station_activity.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_arrow270.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/arrow270.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/xml_wmata.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/xml/wmata.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_test.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/test.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_orientation.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/orientation.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_time_of_arrival_activity.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/time_of_arrival_activity.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_arrow135.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/arrow135.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_arrow045.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/arrow045.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_map.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/map.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_icon_marble_green.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/icon_marble_green.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_my_location.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/my_location.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_bus_closest_row.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/bus_closest_row.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/menu_app_menu.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/menu/app_menu.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_voice_recognition.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/voice_recognition.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_arrow225.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/arrow225.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_header_metro_logo_57.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/header_metro_logo_57.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_dcflagcolor.gif.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/dcflagcolor.gif"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_dcflagbutton_alt.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/dcflagbutton_alt.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/xml_stations_blue.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/xml/stations_blue.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/xml_stations_red.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/xml/stations_red.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_icon_marble_orange.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/icon_marble_orange.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_prediction_row.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/prediction_row.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_arrow315.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/arrow315.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_header_metro_logo.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/header_metro_logo.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_arrow000.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/arrow000.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/xml_all_lines.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/xml/all_lines.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_icon_marble_red.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/icon_marble_red.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_icon_marble_yellow.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/icon_marble_yellow.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_toa_activity_table.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/toa_activity_table.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_dcflagbuttonalt_57.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/dcflagbuttonalt_57.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/xml_all_stations.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/xml/all_stations.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/xml_stations_green.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/xml/stations_green.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_arrow180.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/arrow180.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_wdc.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/wdc.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_prediction_activity.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/prediction_activity.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_closest_row.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/closest_row.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/layout_error.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/layout/error.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_dcflagbuttonalt_72.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/dcflagbuttonalt_72.png"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/xml_stations_yellow.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/xml/stations_yellow.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/xml_stations_orange.xml.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/xml/stations_orange.xml"
+    },
+    {
+        "merged": "/Users/popculture/StudioProjects/dcmetro_android1/app/build/intermediates/res/merged/debug/drawable_dcflagbuttonalt.png.flat",
+        "source": "/Users/popculture/StudioProjects/dcmetro_android1/app/src/main/res/drawable/dcflagbuttonalt.png"
+    }
+]

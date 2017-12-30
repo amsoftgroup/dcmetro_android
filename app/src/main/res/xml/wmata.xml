@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinesResp>
+  <Lines>
+    <Line>
+      <DisplayName>Blue</DisplayName>
+	  <EndStationCode>G05</EndStationCode>
+	  <InternalDestination1/>
+	  <InternalDestination2/>
+	  <LineCode>BL</LineCode>
+	  <StartStationCode>J03</StartStationCode>
+	  <Stations>
+	    <Station>
+			<Code>J03</Code>
+			<Lat>38.7665218926</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2/>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.1679701804</Lon>
+			<Name>Franconia-Springf'ld</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>
+		<Station>
+			<Code>J02</Code>
+			<Lat>38.799307672</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2/>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.1291115237</Lon>
+			<Name>Van Dorn St</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>C13</Code>
+			<Lat>38.8065861172</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>YL</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0608112085</Lon>
+			<Name>King Street</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>C12</Code>
+			<Lat>38.8141436672</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>YL</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.053667574</Lon>
+			<Name>Braddock Road</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>	
+		<Station>
+			<Code>C10</Code>
+			<Lat>38.8534163859</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>YL</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0440422943</Lon>
+			<Name>National Arpt</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>C09</Code>
+			<Lat>38.8579043204</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>YL</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0502898097</Lon>
+			<Name>Crystal City</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>C08</Code>
+			<Lat>38.8618823867</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>YL</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0595389215</Lon>
+			<Name>Pentagon City</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>C07</Code>
+			<Lat>38.8694627012</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>YL</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0537156734</Lon>
+			<Name>Pentagon</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>
+		<Station>
+			<Code>C06</Code>
+			<Lat>38.8846868585</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2/>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0628101291</Lon>
+			<Name>Arlington Cemetery</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>C05</Code>
+			<Lat>38.8959790962</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0709086853</Lon>
+			<Name>Rosslyn</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>
+		<Station>
+			<Code>C04</Code>
+			<Lat>38.9006980092</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.050277739</Lon>
+			<Name>Foggy Bottom</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>C03</Code>
+			<Lat>38.9013128941</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0406954151</Lon>
+			<Name>Farragut West</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>C02</Code>
+			<Lat>38.9013327968</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0336341721</Lon>
+			<Name>McPherson Square</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>				
+		<Station>
+			<Code>A01</Code>
+			<Lat>38.8983144732</Lat>
+			<LineCode1>RD</LineCode1>
+			<LineCode2/>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0280779971</Lon>
+			<Name>Metro Center</Name>
+			<StationTogether1>C01</StationTogether1>
+			<StationTogether2/>
+		</Station>	
+		<Station>
+			<Code>D01</Code>
+			<Lat>38.8931808718</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0281319984</Lon>
+			<Name>Federal Triangle</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>	
+		<Station>
+			<Code>D02</Code>
+			<Lat>38.888018702</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0280662342</Lon>
+			<Name>Smithsonian</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>D03</Code>
+			<Lat>38.8848377279</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.021908484</Lon>
+			<Name>L'Enfant Plaza</Name>
+			<StationTogether1>F03</StationTogether1>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>D04</Code>
+			<Lat>38.8850723551</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0158682169</Lon>
+			<Name>Federal Center SW</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>D05</Code>
+			<Lat>38.8850625009</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-77.0051394199</Lon>
+			<Name>Capitol South</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>D06</Code>
+			<Lat>38.8846222608</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-76.9960011267</Lon>
+			<Name>Eastern Market</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>D07</Code>
+			<Lat>38.8812632736</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-76.9854953196</Lon>
+			<Name>Potomac Avenue</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>		
+		<Station>
+			<Code>D08</Code>
+			<Lat>38.8867090898</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2>OR</LineCode2>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-76.9770889014</Lon>
+			<Name>Stadium Armory</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>				
+		<Station>
+			<Code>G01</Code>
+			<Lat>38.890975676</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2/>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-76.9383648681</Lon>
+			<Name>Benning Road</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>
+		<Station>
+			<Code>G02</Code>
+			<Lat>38.8894658568</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2/>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-76.9118081145</Lon>
+			<Name>Capitol Heights</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>	
+		<Station>
+			<Code>G03</Code>
+			<Lat>38.8867478168</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2/>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-76.89410791</Lon>
+			<Name>Addison Road</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>				
+		<Station>
+			<Code>G04</Code>
+			<Lat>38.8938349282</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2/>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-76.8680747681</Lon>
+			<Name>Morgan Blvd</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>				
+		<Station>
+			<Code>G05</Code>
+			<Lat>38.9050688072</Lat>
+			<LineCode1>BL</LineCode1>
+			<LineCode2/>
+			<LineCode3/>
+			<LineCode4/>
+			<Lon>-76.8420375202</Lon>
+			<Name>Largo Town Center</Name>
+			<StationTogether1/>
+			<StationTogether2/>
+		</Station>			
+	  </Stations>
+    </Line>
+  <Line>
+	<DisplayName>Yellow</DisplayName>
+	<EndStationCode>E06</EndStationCode>
+	<InternalDestination1>E01</InternalDestination1>
+	<InternalDestination2/>
+	<LineCode>YL</LineCode>
+	<StartStationCode>C15</StartStationCode>
+<Stations>
+	<Station>
+		<Code>C15</Code>
+		<Lat>38.7939158529</Lat>
+		<LineCode1>YL</LineCode1>
+		<LineCode2/>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0752057891</Lon>
+		<Name>Huntington</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>
+		<Station>
+		<Code>C14</Code>
+		<Lat>38.8004254497</Lat>
+		<LineCode1>YL</LineCode1>
+		<LineCode2/>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0708743893</Lon>
+		<Name>Eisenhower Avenue</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>
+	<Station>
+		<Code>C13</Code>
+		<Lat>38.8065861172</Lat>
+		<LineCode1>BL</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0608112085</Lon>
+		<Name>King Street</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>
+	<Station>
+		<Code>C12</Code>
+		<Lat>38.8141436672</Lat>
+		<LineCode1>BL</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.053667574</Lon>
+		<Name>Braddock Road</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>	
+	<Station>
+		<Code>C10</Code>
+		<Lat>38.8534163859</Lat>
+		<LineCode1>BL</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0440422943</Lon>
+		<Name>National Arpt</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>	
+	<Station>
+		<Code>C09</Code>
+		<Lat>38.8579043204</Lat>
+		<LineCode1>BL</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0502898097</Lon>
+		<Name>Crystal City</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>	
+	<Station>
+		<Code>C08</Code>
+		<Lat>38.8618823867</Lat>
+		<LineCode1>BL</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0595389215</Lon>
+		<Name>Pentagon City</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>
+	<Station>
+		<Code>C07</Code>
+		<Lat>38.8694627012</Lat>
+		<LineCode1>BL</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0537156734</Lon>
+		<Name>Pentagon</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>
+	<Station>
+		<Code>F03</Code>
+		<Lat>38.8848377279</Lat>
+		<LineCode1>GR</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.021908484</Lon>
+		<Name>L'Enfant Plaza</Name>
+		<StationTogether1>D03</StationTogether1>
+		<StationTogether2/>
+	</Station>	
+	<Station>
+		<Code>F02</Code>
+		<Lat>38.8936652235</Lat>
+		<LineCode1>GR</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0219143879</Lon>
+		<Name>Archives</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>	
+	<Station>
+		<Code>B01</Code>
+		<Lat>38.8983168097</Lat>
+		<LineCode1>RD</LineCode1>
+		<LineCode2/>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0219153904</Lon>
+		<Name>Gallery Place</Name>
+		<StationTogether1>F01</StationTogether1>
+		<StationTogether2/>
+	</Station>
+	<Station>
+		<Code>E01</Code>
+		<Lat>38.9064368149</Lat>
+		<LineCode1>GR</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0219143803</Lon>
+		<Name>Mt Vernon Sq</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>	
+	<Station>
+		<Code>E02</Code>
+		<Lat>38.9134768711</Lat>
+		<LineCode1>GR</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0219117007</Lon>
+		<Name>Shaw</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>
+	<Station>
+		<Code>E03</Code>
+		<Lat>38.9170023992</Lat>
+		<LineCode1>GR</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0274958929</Lon>
+		<Name>U Street</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>
+	<Station>
+		<Code>E04</Code>
+		<Lat>38.9278379675</Lat>
+		<LineCode1>GR</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0325521177</Lon>
+		<Name>Columbia Heights</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>	
+	<Station>
+		<Code>E05</Code>
+		<Lat>38.9374346301</Lat>
+		<LineCode1>GR</LineCode1>
+		<LineCode2>YL</LineCode2>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.023460904</Lon>
+		<Name>Georgia Avenue</Name>
+		<StationTogether1/>
+		<StationTogether2/>
+	</Station>	
+	<Station>
+		<Code>B06</Code>
+		<Lat>38.9518467675</Lat>
+		<LineCode1>RD</LineCode1>
+		<LineCode2/>
+		<LineCode3/>
+		<LineCode4/>
+		<Lon>-77.0022030768</Lon>
+		<Name>Fort Totten</Name>
+		<StationTogether1>E06</StationTogether1>
+		<StationTogether2/>
+	</Station>		
+</Stations>
+</Line>
+
+
+<Line>
+<DisplayName>Green</DisplayName>
+<EndStationCode>E10</EndStationCode>
+<InternalDestination1/>
+<InternalDestination2/>
+<LineCode>GR</LineCode>
+<StartStationCode>F11</StartStationCode>
+<Stations>
+<Station>
+<Code>F11</Code>
+<Lat>38.8264463483</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9114642177</Lon>
+<Name>Branch Avenue</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+<Station>
+<Code>F10</Code>
+<Lat>38.8439645544</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9318701589</Lon>
+<Name>Suitland</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>F09</Code>
+<Lat>38.8513013835</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9562627094</Lon>
+<Name>Naylor Road</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>F08</Code>
+<Lat>38.8410857803</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9750541388</Lon>
+<Name>Southern Ave</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>F07</Code>
+<Lat>38.8456577028</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9885119326</Lon>
+<Name>Congress Height</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>F06</Code>
+<Lat>38.8629631168</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9953707387</Lon>
+<Name>Anacostia</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>F05</Code>
+<Lat>38.8764810849</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0050856513</Lon>
+<Name>Navy Yard</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>F04</Code>
+<Lat>38.8764618668</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0175052088</Lon>
+<Name>Waterfront</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>F03</Code>
+<Lat>38.8848377279</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2>YL</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.021908484</Lon>
+<Name>L'Enfant Plaza</Name>
+<StationTogether1>D03</StationTogether1>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>F02</Code>
+<Lat>38.8936652235</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2>YL</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0219143879</Lon>
+<Name>Archives</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>F01</Code>
+<Lat>38.8983168097</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2>YL</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0219153904</Lon>
+<Name>Gallery Place</Name>
+<StationTogether1>B01</StationTogether1>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E01</Code>
+<Lat>38.9064368149</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2>YL</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0219143803</Lon>
+<Name>Mt Vernon Sq</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E02</Code>
+<Lat>38.9134768711</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2>YL</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0219117007</Lon>
+<Name>Shaw</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E03</Code>
+<Lat>38.9170023992</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2>YL</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0274958929</Lon>
+<Name>U Street</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E04</Code>
+<Lat>38.9278379675</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2>YL</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0325521177</Lon>
+<Name>Columbia Heights</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E05</Code>
+<Lat>38.9374346301</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2>YL</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.023460904</Lon>
+<Name>Georgia Avenue</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E06</Code>
+<Lat>38.9518467675</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2>YL</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0022030768</Lon>
+<Name>Fort Totten</Name>
+<StationTogether1>B06</StationTogether1>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E07</Code>
+<Lat>38.9550401707</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9695766751</Lon>
+<Name>West Hyattsville</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E08</Code>
+<Lat>38.9653854458</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9558815078</Lon>
+<Name>Prince Georges Plaza</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E09</Code>
+<Lat>38.9786336339</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9281249818</Lon>
+<Name>College Park</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>E10</Code>
+<Lat>39.0111458605</Lat>
+<LineCode1>GR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9110575731</Lon>
+<Name>Greenbelt</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+</Stations>
+</Line>
+
+
+<Line>
+<DisplayName>Red</DisplayName>
+<EndStationCode>B11</EndStationCode>
+<InternalDestination1>A11</InternalDestination1>
+<InternalDestination2>B08</InternalDestination2>
+<LineCode>RD</LineCode>
+<StartStationCode>A15</StartStationCode>
+<Stations>
+
+<Station>
+<Code>A15</Code>
+<Lat>39.1199273249</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.1646273343</Lon>
+<Name>Shady Grove</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A14</Code>
+<Lat>39.0843216075</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.1461253392</Lon>
+<Name>Rockville</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A13</Code>
+<Lat>39.0624676517</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.1208179517</Lon>
+<Name>Twinbrook</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A12</Code>
+<Lat>39.0481513573</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.112829859</Lon>
+<Name>White Flint</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A11</Code>
+<Lat>39.02926895</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.10384972</Lon>
+<Name>Grosvenor</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A10</Code>
+<Lat>39.0000564843</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0969522905</Lon>
+<Name>Medical Center</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A09</Code>
+<Lat>38.9843936603</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0941291922</Lon>
+<Name>Bethesda</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A08</Code>
+<Lat>38.9594838736</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.084995805</Lon>
+<Name>Friendship Heights</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A07</Code>
+<Lat>38.9488514351</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0795873255</Lon>
+<Name>Tenleytown</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A06</Code>
+<Lat>38.9432652883</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0629861805</Lon>
+<Name>Van Ness UDC</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A05</Code>
+<Lat>38.9347628908</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0580425191</Lon>
+<Name>Cleveland Park</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A04</Code>
+<Lat>38.9250851371</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0524180207</Lon>
+<Name>Woodley Park Zoo</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A03</Code>
+<Lat>38.9095980575</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0434143597</Lon>
+<Name>Dupont Circle</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A02</Code>
+<Lat>38.9032019462</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0397008272</Lon>
+<Name>Farragut North</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>A01</Code>
+<Lat>38.8983144732</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0280779971</Lon>
+<Name>Metro Center</Name>
+<StationTogether1>C01</StationTogether1>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B01</Code>
+<Lat>38.8983168097</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0219153904</Lon>
+<Name>Gallery Place</Name>
+<StationTogether1>F01</StationTogether1>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B02</Code>
+<Lat>38.8960903176</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0166389566</Lon>
+<Name>Judiciary Square</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B03</Code>
+<Lat>38.8977660392</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0074142921</Lon>
+<Name>Union Station</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B35</Code>
+<Lat>38.9070162121</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0030204472</Lon>
+<Name>New York Avenue</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B04</Code>
+<Lat>38.9210596891</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9959369166</Lon>
+<Name>Rhode Island Avenue</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B05</Code>
+<Lat>38.9332109913</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9945342851</Lon>
+<Name>Brookland</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B06</Code>
+<Lat>38.9518467675</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0022030768</Lon>
+<Name>Fort Totten</Name>
+<StationTogether1>E06</StationTogether1>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B07</Code>
+<Lat>38.976078531</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0181766987</Lon>
+<Name>Takoma</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B08</Code>
+<Lat>38.9939493747</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0310178268</Lon>
+<Name>Silver Spring</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B09</Code>
+<Lat>39.0149542752</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0429165548</Lon>
+<Name>Forest Glen</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B10</Code>
+<Lat>39.0375271436</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0501070535</Lon>
+<Name>Wheaton</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>B11</Code>
+<Lat>39.0617837655</Lat>
+<LineCode1>RD</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0535573593</Lon>
+<Name>Glenmont</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+</Stations>
+
+</Line>
+<Line>
+<DisplayName>Orange</DisplayName>
+<EndStationCode>D13</EndStationCode>
+<InternalDestination1/>
+<InternalDestination2/>
+<LineCode>OR</LineCode>
+<StartStationCode>K08</StartStationCode>
+
+<Stations>
+
+<Station>
+<Code>K08</Code>
+<Lat>38.8776011238</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.2726222569</Lon>
+<Name>Vienna</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>K07</Code>
+<Lat>38.8836251359</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.2271606721</Lon>
+<Name>Dunn Loring</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>K06</Code>
+<Lat>38.900780551</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.1890948225</Lon>
+<Name>W Falls Church</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>K05</Code>
+<Lat>38.8859531663</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.1568830199</Lon>
+<Name>E Falls Church</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>K04</Code>
+<Lat>38.8821828738</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.113168835</Lon>
+<Name>Ballston</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>K03</Code>
+<Lat>38.8833661518</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.1029772942</Lon>
+<Name>Virginia Square</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>K02</Code>
+<Lat>38.886704839</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0953940983</Lon>
+<Name>Clarendon</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>K01</Code>
+<Lat>38.8901755312</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.087131231</Lon>
+<Name>Court House</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>C05</Code>
+<Lat>38.8959790962</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0709086853</Lon>
+<Name>Rosslyn</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>C04</Code>
+<Lat>38.9006980092</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.050277739</Lon>
+<Name>Foggy Bottom</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>C03</Code>
+<Lat>38.9013128941</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0406954151</Lon>
+<Name>Farragut West</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>C02</Code>
+<Lat>38.9013327968</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0336341721</Lon>
+<Name>McPherson Square</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>C01</Code>
+<Lat>38.8983144732</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0280779971</Lon>
+<Name>Metro Center</Name>
+<StationTogether1>A01</StationTogether1>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D01</Code>
+<Lat>38.8931808718</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0281319984</Lon>
+<Name>Federal Triangle</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D02</Code>
+<Lat>38.888018702</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0280662342</Lon>
+<Name>Smithsonian</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D03</Code>
+<Lat>38.8848377279</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.021908484</Lon>
+<Name>L'Enfant Plaza</Name>
+<StationTogether1>F03</StationTogether1>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D04</Code>
+<Lat>38.8850723551</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0158682169</Lon>
+<Name>Federal Center SW</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D05</Code>
+<Lat>38.8850625009</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-77.0051394199</Lon>
+<Name>Capitol South</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D06</Code>
+<Lat>38.8846222608</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9960011267</Lon>
+<Name>Eastern Market</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D07</Code>
+<Lat>38.8812632736</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9854953196</Lon>
+<Name>Potomac Avenue</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D08</Code>
+<Lat>38.8867090898</Lat>
+<LineCode1>BL</LineCode1>
+<LineCode2>OR</LineCode2>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9770889014</Lon>
+<Name>Stadium Armory</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D09</Code>
+<Lat>38.899191223</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.9467477336</Lon>
+<Name>Minnesota Avenue</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D10</Code>
+<Lat>38.9081784965</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.935256783</Lon>
+<Name>Deanwood</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D11</Code>
+<Lat>38.9166318546</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.916628044</Lon>
+<Name>Cheverly</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D12</Code>
+<Lat>38.9335062344</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.8911979676</Lon>
+<Name>Landover</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+
+<Station>
+<Code>D13</Code>
+<Lat>38.9477848558</Lat>
+<LineCode1>OR</LineCode1>
+<LineCode2/>
+<LineCode3/>
+<LineCode4/>
+<Lon>-76.8718412865</Lon>
+<Name>New Carrollton</Name>
+<StationTogether1/>
+<StationTogether2/>
+</Station>
+</Stations>
+
+
+</Line>
+</Lines>
+</LinesResp>

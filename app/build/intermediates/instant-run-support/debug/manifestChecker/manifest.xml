@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sombrerosoft.android.wmata"
+    android:versionCode="25"
+    android:versionName="1.1.7" >
+
+    <uses-sdk
+        android:minSdkVersion="25"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:name="com.sombrerosoft.android.wmata.WMATAApp"
+        android:debuggable="true"
+        android:icon="@drawable/header_metro_logo"
+        android:label="@string/app_name"
+        android:testOnly="true" >
+        <activity
+            android:name="com.sombrerosoft.android.wmata.LineActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="keyboardHidden|orientation"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--
+	<activity android:enabled="true" 
+			  android:name="client"  
+			  android:clearTaskOnLaunch="true"
+			  android:configChanges="keyboardHidden|orientation"
+			  />
+        -->
+        <activity
+            android:name="com.sombrerosoft.android.wmata.StationActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="keyboardHidden|orientation"
+            android:enabled="true" />
+        <!--
+	<activity android:enabled="true" 
+			  android:name="BusActivity"  
+			  android:clearTaskOnLaunch="true"
+			  android:configChanges="keyboardHidden|orientation"
+			  />
+
+	<activity android:enabled="true"
+			  android:name="BusLocationActivity"  
+			  android:clearTaskOnLaunch="true"
+			  android:configChanges="keyboardHidden|orientation"
+			  />
+        -->
+        <activity
+            android:name="com.sombrerosoft.android.wmata.TimeOfArrivalActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="keyboardHidden|orientation"
+            android:enabled="true" />
+        <activity
+            android:name="com.sombrerosoft.android.wmata.WebStatusActivity"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="keyboardHidden|orientation"
+            android:enabled="true" />
+        <activity
+            android:name="com.sombrerosoft.android.wmata.TimeOfArrivalActivityText"
+            android:clearTaskOnLaunch="true"
+            android:configChanges="keyboardHidden|orientation"
+            android:enabled="true" />
+        <activity
+            android:name="com.sombrerosoft.android.wmata.LocationActivity"
+            android:clearTaskOnLaunch="false"
+            android:configChanges="keyboardHidden|orientation"
+            android:enabled="true" />
+        <!--
+	<activity android:enabled="true" 
+			  android:name="OrientationSensor"  
+			  android:clearTaskOnLaunch="false"
+			  android:configChanges="keyboardHidden|orientation"
+			  />	
+	<activity android:enabled="true" 
+			  android:name="CompassActivity"  
+			  android:clearTaskOnLaunch="false"
+			  android:configChanges="keyboardHidden|orientation"
+			  />
+
+	<activity android:enabled="true" 
+			  android:name="MyLocation"  
+			  android:clearTaskOnLaunch="false"
+			  android:configChanges="keyboardHidden|orientation"
+			  />
+
+	<activity android:enabled="true" 
+			  android:name="VoiceStartActivity"  
+			  android:clearTaskOnLaunch="false"
+			  android:configChanges="keyboardHidden|orientation"
+			  />
+        -->
+        <activity android:name="com.sombrerosoft.android.wmata.WMATAPreferenceActivity" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.sombrerosoft.android.wmata.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

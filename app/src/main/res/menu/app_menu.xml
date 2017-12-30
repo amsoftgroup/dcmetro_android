@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:id="@string/GPS_closest" android:enabled="true" android:visible="true" android:title="@string/GPS_closest"></item>
+	<item android:id="@string/GPS_closest_bus" android:enabled="true" android:visible="true" android:title="@string/GPS_closest_bus"></item>
+	<item android:id="@string/settings" android:enabled="true" android:visible="true" android:title="@string/settings"></item>
+	<item android:id="@string/about" android:enabled="true" android:visible="true" android:title="@string/about"></item>
+	<item android:id="@string/status" android:enabled="true" android:visible="true" android:title="@string/status"></item>
+	<item android:id="@string/voice" android:enabled="true" android:visible="true" android:title="@string/voice"></item>
+
+</menu>

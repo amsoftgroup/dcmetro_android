@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="busArray">
+    <item>@string/SHOW_BUS</item>
+	<item>@string/HIDE_BUS</item>
+  </array>
+    <string-array name="busValues">
+  	<item>1</item>
+    <item>0</item>
+  </string-array>
+    <array name="delayArray">
+    <item>@string/SHOW</item>
+	<item>@string/HIDE</item>
+  </array>
+    <string-array name="delayValues">
+  	<item>1</item>
+    <item>0</item>
+  </string-array>
+    <array name="formatArray">
+    <item>@string/TABLE</item>
+	<item>@string/TEXT</item>
+  </array>
+    <string-array name="formatValues">
+    <item>@string/TABLE</item>
+	<item>@string/TEXT</item>
+  </string-array>
+    <array name="listArray">
+	<item>@string/THIRTY</item>
+	<item>@string/FORTYFIVE</item>
+	<item>@string/SIXTY</item>	
+  </array>
+    <string-array name="listValues">
+	<item>30000</item>
+	<item>45000</item>
+	<item>60000</item>  
+  </string-array>
+    <array name="measurementArray">
+    <item>@string/METRIC</item>
+	<item>@string/STANDARD</item>
+  </array>
+    <string-array name="measurementValues">
+    <item>@string/METRIC</item>
+	<item>@string/STANDARD</item>
+  </string-array>
+    <string-array name="tripArray">
+    <item>@string/WALK</item>
+	<item>@string/DRIVE</item>
+	<item>@string/TRANSIT</item>
+    </string-array>
+    <string-array name="tripValues">
+    <item>@string/WALK</item>
+	<item>@string/DRIVE</item>
+	<item>@string/TRANSIT</item>
+  </string-array>
+    <string name="DRIVE">Drive</string>
+    <string name="FORTYFIVE">45 seconds</string>
+    <string name="GPS_closest">Closest Station</string>
+    <string name="GPS_closest_bus">Closest Bus</string>
+    <string name="HIDE">Hide system delays</string>
+    <string name="HIDE_BUS">Hide Bus option on startup</string>
+    <string name="METRIC">Metric</string>
+    <string name="REMOTE_STATUS_WEBSITE">[insert your webpage for remote status updates here]</string>
+    <string name="SHOW">Show system delays</string>
+    <string name="SHOW_BUS">Show Bus option on startup</string>
+    <string name="SIXTY">60 seconds</string>
+    <string name="STANDARD">Standard</string>
+    <string name="TABLE">Tabular</string>
+    <string name="TEXT">Text</string>
+    <string name="THIRTY">30 seconds</string>
+    <string name="TRANSIT">Mass Transit</string>
+    <string name="WALK">Walk</string>
+    <string name="WMATA_KEY">***REMOVED***</string>
+    <string name="about">About</string>
+    <string name="app_name">d.c. metro</string>
+    <string name="eula_accept">Accept</string>
+    <string name="eula_refuse">Don\'t Accept</string>
+    <string name="eula_title">End User License Agreement</string>
+    <string name="hello">Washington D.C. Metro Schedules:</string>
+    <string name="settings">Settings...</string>
+    <string name="status">Status</string>
+    <string name="voice">voice</string>
+</resources>

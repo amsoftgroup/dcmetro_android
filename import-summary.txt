@@ -1,0 +1,144 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea/
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/modules.xml
+* .idea/vcs.xml
+* .idea/workspace.xml
+* README.md
+* dcmetro_android.iml
+* out/
+* out/production/
+* out/production/dcmetro_android/
+* out/production/dcmetro_android/com/
+* out/production/dcmetro_android/com/sombrerosoft/
+* out/production/dcmetro_android/com/sombrerosoft/android/
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/BuildConfig.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LineActivity$1.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LineActivity$2.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LineActivity$3.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LineActivity$4.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LineActivity$5.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LineActivity$OrderAdapter.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LineActivity.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$1.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$2.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$3.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$4.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$5.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$6.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$7.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$8.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$OrderAdapter$1.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity$OrderAdapter.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/LocationActivity.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/MapViewActivity.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/R$array.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/R$attr.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/R$drawable.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/R$id.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/R$layout.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/R$menu.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/R$string.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/R$xml.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/R.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/StationActivity$1.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/StationActivity$2.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/StationActivity$3.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/StationActivity$4.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/StationActivity$5.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/StationActivity$OrderAdapter.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/StationActivity$StationGeoComparator.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/StationActivity.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivity$1.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivity$2.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivity$3.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivity$ArrivalAdapter.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivity$CustomComparator.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivity.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivityText$1.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivityText$2.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivityText$3.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivityText$CustomComparator.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/TimeOfArrivalActivityText.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/VoiceStartActivity$1.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/VoiceStartActivity$2.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/VoiceStartActivity$3.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/VoiceStartActivity$4.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/VoiceStartActivity$5.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/VoiceStartActivity$6.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/VoiceStartActivity.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/WMATAApp.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/WMATAPreferenceActivity.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/WebStatusActivity$1.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/WebStatusActivity$2.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/WebStatusActivity$3.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/WebStatusActivity.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/dal/
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/dal/XmlPullFeedParser.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/eula/
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/eula/Eula$1.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/eula/Eula$2.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/eula/Eula$3.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/eula/Eula$OnEulaAgreedTo.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/eula/Eula.class
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/helper/
+* out/production/dcmetro_android/com/sombrerosoft/android/wmata/helper/AppHelper.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/BusPosition.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/BusScheduleStopTime.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/BusStop.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/Route.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/RouteDetailsInfo.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/RouteScheduleInfo.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/ShapePoint.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/Stop.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/bus/StopScheduleArrival.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/metro/
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/metro/ElevatorIncident.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/metro/Line.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/metro/RailIncident.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/metro/RailPath.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/metro/RailStationInfo.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/metro/RailStationPrediction.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/metro/Station.class
+* out/production/dcmetro_android/com/sombrerosoft/wmata/beans/metro/StationEntrance.class
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
